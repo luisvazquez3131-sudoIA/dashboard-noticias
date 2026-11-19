@@ -1,10 +1,13 @@
 {
-  "generated_at": "2026-11-19T03:05:18.599629Z",
-  "status": "ok",
-  "sources_ok": 13,
+  "generated_at": "2026-11-19T03:07:08.244787Z",
+  "status": "partial",
+  "sources_ok": 11,
   "sources_total": 13,
-  "new_articles": 100,
-  "errors": [],
+  "new_articles": 82,
+  "errors": [
+    "El Economista vía Google News: HTTPError: HTTP Error 429: Too Many Requests",
+    "Reuters vía Google News: HTTPError: HTTP Error 429: Too Many Requests"
+  ],
   "articles": [
     {
       "id": "561bd1ef2632f2e0d0983061",
@@ -1040,6 +1043,15 @@
       "category": "México",
       "published_at": "2026-11-18T17:50:18Z",
       "collected_at": "2026-11-19T03:04:41.910091Z"
+    },
+    {
+      "id": "d5d7b5a698884d2115064180",
+      "title": "UBS ve menos respaldo para el peso mexicano y eleva su apuesta por el dólar - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZkV3Smw1NnVKaFg2d2FkbnlNOEc1eUg1dTRoaE84NzJHNDF5RHBoR0ZFQ2RBd2NZZDFHNXZ2ODdrdlVnOFhYN3daSS01MkdoZXhvMXQ2QnlTeDExc09USXpWSUZKYlBhVk9kUS01XzN3em5ROU5vMHVlSnBBUWJRTHdCV0hnaTF2MU1rRXBmUk5yZTdsMW4zRUs0MWl5S3lUbWM2bHhkMUZkRlpzc2RockUtUXIyUUJmeVJsNDQ4WWI5M2RSRk56M2E2U3pLV3JrdE1LSFBta1gzckN1bEI1MHR3UWoweEVKOHlBZDZ30gHuAUFVX3lxTFBmRXdKbDU2dUpoWDZ3YWRueU04RzV5SDV1NGhoTzg3Mkc0MXlEcGhHRkVDZEF3Y1lkMUc1dnY4N2t2VWc4WFg3d1pJLTUyR2hleG8xdDZCeVN4MTFzT1RJelZJRkpiUGFWT2RRLTVfM3d6blE5Tm8wdWVKcEFRYlFMd0JXSGdpMXYxTWtFcGZSTnJlN2wxbjNFSzQxaXlLeVRtYzZseGQxRmRGWnNzZGhyRS1RcjJRQmZ5Umw0NDhZYjkzZFJGTnozYTZTektXcmt0TUtIUG1rWDNyQ3VsQjUwdHdRajB4RUo4eUFkNnc?oc=5",
+      "source": "El Cronista",
+      "category": "México",
+      "published_at": "2026-11-18T17:50:18Z",
+      "collected_at": "2026-11-19T03:07:08.244787Z"
     },
     {
       "id": "acc112a5b11232376dceb0de",
@@ -2695,15 +2707,6 @@
       "source": "Expreso",
       "category": "México",
       "published_at": "2026-11-17T13:13:00Z",
-      "collected_at": "2026-11-19T03:04:41.910091Z"
-    },
-    {
-      "id": "75502278380d3d73c62a783c",
-      "title": "Campo Trión avanza con inversión de 10,434 millones de dólares en Tamaulipas - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU9ZUHhmX1dmZGNPYVdGQ0VnLUQtMXV5d2VBTE9EdlJ0R1BTRHNVT2RtR3NLR3l2ZVYzWUFuZVNsMTBXdzVnTktoUC1sUVd2b09wd0Y2cTdQLW9La3Q2blBXWEcxVER6TnMxMlR1UW1QUTA1MmI2LVFjeDBZdFhlLXVUV1NNSUhfWlJGZFkyVDNLZXIzNlc4ZmswUGphNXRzY0hWYjNxWDZPNHFVUENUS3JIMzJqcFBucjF4R0MwTzAzd9IBxwFBVV95cUxNMGRKN3MwVlJ2LW56WGxOVFhYbGZIUG84b0xPbUpEUmtGbnVlaDhXNFN2Tk85VHdtVm1xSE9yelRXOTlrN0ZOQklNRFg5QnkyS2xJWFVnODJwRGUzNlpWQVp3WURQeGRlcFBJSENJTHFuVUpUd3dtNC1QdmFPUXFOZHVXQ1k1Z3MwdnVMdndPa192LTN0OU5fU1VHN0JOOFRjUlYzYzJING85X1R1N2JzQ3dtcndHSXc4TUEydDJ6bThlMjhGMUpJ?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-17T13:05:00Z",
       "collected_at": "2026-11-19T03:04:41.910091Z"
     }
   ]
