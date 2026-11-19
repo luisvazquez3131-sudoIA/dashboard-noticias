@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T03:04:41.910091Z",
+  "generated_at": "2026-11-19T03:05:18.599629Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 399,
+  "new_articles": 100,
   "errors": [],
   "articles": [
     {
@@ -671,6 +671,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-18T20:35:00Z",
       "collected_at": "2026-11-19T03:04:41.910091Z"
+    },
+    {
+      "id": "d870c8d53647874a243fb65d",
+      "title": "US 20-Year Treasury Auction Stops at 5.459%, Demand Solid - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkOXZCYllPTzJ5MVhPUHJSMERqcW1aX1JtMjZxOGZkOGtXQzl0OERiQkdvLV9rQmxPb1BCZjZWZEdJVlBWT05PMXdVbmp4djlGUjNTTQ?oc=5",
+      "source": "bloomingbit",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T20:31:06Z",
+      "collected_at": "2026-11-19T03:05:18.599629Z"
     },
     {
       "id": "e474e202865d13b653f36945",
@@ -2545,6 +2554,15 @@
       "collected_at": "2026-11-19T03:04:41.910091Z"
     },
     {
+      "id": "3147aa442fd14f0bafe7300d",
+      "title": "Precio del dólar frente al peso mexicano hoy martes 17 de noviembre de 2026 - Imagen de Veracruz",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHF4X0lWQ2Z5SjV5M1l0NnRqdDBkNGJLcmFlbl9ZRFVuMlBxNzc3UVJGSGpMUUJWU3BWdVRZb1dmazkwakhkRDBNOUY1MThTbEpNVHVqcFJUbmpzdUg3OVZiTF9xM1pjWnZISkVNWUpyMkRRSDVSb3pzT1FLYlNMTFVXN1FFZ1l3Y19oVnpPeTBPUjUydWNvT09lMEdtakhmXzR4MWp0N2U2Y2drZGR3QWVYeFZaUV8tWi1XNUdBaXJUMFBvUlFXZldpY9IB0AFBVV95cUxNcWVyZ2NmVWJxVFdjcmQ1ZHNsTEtzTHJXSlhCajlmTHJ4a3R4Y1RjdUlGalFhMnl0WDd6SEVSYi1VRWdaaktQaUpIcExuRVZ6UGVLQ19qWC1kSW84ODB3bnBmOW5qMkRHYjRMVmpRLXdQbnFpMnVjU3B4NVYxSFA5U2wybVlnTXM2SmRoaUtVMUxpRWFLZ3huQnZxRm1LeTZ3UVA1VzNtbGZvbkNFRTFQRTlFSTlQSG1SVzI0T0NSOHNjc2Q3Xy11TG9RUEFWbnBX?oc=5",
+      "source": "Imagen de Veracruz",
+      "category": "México",
+      "published_at": "2026-11-17T15:05:22Z",
+      "collected_at": "2026-11-19T03:05:18.599629Z"
+    },
+    {
       "id": "3d419bb5bb7e71516505ce96",
       "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWFXWGxkZWd6RlR3MXZWb016RzJ2ZVk2LUlwNXVicUJmVHRibHpGMzBWNldpZWNBWHZrMnFaT0xna3Qxa2FIa25WdWV0OGpDNmQzNVNfYURsOFBQSHI2cUU0WFpneGFHeHg4UHZDRTVoamc1Uks1by13UG1PcVpJeVo4cGRPYm5GZ2FIQUZPVHI2UW1laVVxT2h6LVQzQzBueGJyUGJwZUdPUVJPOWoyYmNIZWhuX1FFd3pOcFpCRXU3Zw?oc=5",
@@ -2686,24 +2704,6 @@
       "source": "El Economista",
       "category": "México",
       "published_at": "2026-11-17T13:05:00Z",
-      "collected_at": "2026-11-19T03:04:41.910091Z"
-    },
-    {
-      "id": "7af243aaa7e0f10bc08b1077",
-      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-      "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T12:48:14Z",
-      "collected_at": "2026-11-19T03:04:41.910091Z"
-    },
-    {
-      "id": "ecf62c6b59641c72c1958454",
-      "title": "La inflación vuelve a presionar a América Latina: así cerró octubre 2026, país por país - Noticias de Bariloche",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2tlbmQ4QXVodmEzMEJjOGZMTGhLaHFHdUhlWVlIeVhSV0FoUlZfMFJMZVgzWWlhTS1pSjhpZUxwUzFnRWJXcWFyQlY4VEVPbTJMQXJrMkxXRWVnaC15bHhuNjZRYVhKdGtzWnFrZzV0ZTRSaXNROWlYSXRVWDRuQ1IteGZOdk1va2g1ODF1RloxNHVidldvRy1QSS1IQmFNMTBYVDlCQ2Z0V0FOMjhQVlQ3c0t0N0twTWE5VklqZ3gtMXPSAcgBQVVfeXFMT2R0cG84S3NIVGhGV3h0eDNXc29wbGRaOS1ERXZVdUd3cmx6YldJMWtnOGJleXlqcmZlbF9iTi1CaHRTNy1jeHpBQTAyNEx0OUxhYTV2bTdTWndaQkpSYjJSN04tdEkxMWIxVG5uZl8ydTYtenNaTGt3cFhBNkJVSVpscmVNTUw0djVkX3pKampESmgtU0pmQ3JCcUxXUHdvU05US24zY09kV1I4LXFjNURUOXhWaDVuSV9CaEIzN0lMS3hiY1FJUFk?oc=5",
-      "source": "Noticias de Bariloche",
-      "category": "México",
-      "published_at": "2026-11-17T12:32:08Z",
       "collected_at": "2026-11-19T03:04:41.910091Z"
     }
   ]
